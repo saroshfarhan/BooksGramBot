@@ -1,7 +1,7 @@
 import requests
 import random
 
-API_KEY = "BcQIu47MTGC00fKzEbR5FFxBvZzymHBt"
+API_KEY = "ADD_NYTs_API_KEY_HERE"
 
 list_name = []
 
