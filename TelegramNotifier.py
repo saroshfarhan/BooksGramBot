@@ -5,7 +5,7 @@ from jokesApi import joke
 import bookRecommender
 import sys
 import os
-PORT = int(os.environ.get('PORT', 5000))
+PORT = int(os.environ.get('PORT', 8443))
 # insert at 1, 0 is the script path (or '' in REPL)
 sys.path.insert(1, 'G:/SeleniumTest/PythonTests/TelegramBot')
 
